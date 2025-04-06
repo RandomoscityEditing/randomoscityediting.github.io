@@ -8,7 +8,7 @@ function contactMe(){
     };
 
 const serviceID = "service_itcm71n";
-const templateID = "template_gw5yz1o";
+const templateID = "template_d5onycr";
 
 emailjs.send(serviceID,templateID,params)
 .then(
