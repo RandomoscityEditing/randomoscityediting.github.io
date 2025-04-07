@@ -69,6 +69,7 @@ body {
     min-width: 950px; 
     max-width: 600px;
     border-radius: 20px;
+    text-align: center;
 }
 
 .menu > a{
